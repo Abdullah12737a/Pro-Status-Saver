@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey">#80000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#7A49C7</color>
+    <color name="colorPrimaryDark">#003A8C</color>
+    <color name="colorPrimaryLight">#D887FF</color>
+    <color name="colorPrimaryHighlight">#FFD700</color>
+    <color name="colorBottomNav">#3D3278</color>
+    <color name="colorComplimentary">#FFD700</color>
+
+    <color name="colorInactiveItemDay">#414141</color>
+    <color name="colorActiveItemDay">#000000</color>
+
+    <color name="colorInactiveItemNight">#BABABA</color>
+    <color name="colorActiveItemNight">#fff</color>
+
+</resources>
